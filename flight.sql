@@ -6,8 +6,8 @@ CREATE TABLE flight(
 );
 
 
-INSERT INTO flight (id, origin, destination, duration) VALUES (1,'new york','london', 415);
 
+INSERT INTO flight (id, origin, destination, duration) VALUES (1,'new york','london', 415);
 INSERT INTO flight (id, origin, destination, duration) VALUES (2,'shanghai','paris', 760);
 INSERT INTO flight(id, origin, destination, duration) VALUES (3,'istanbul','tokyo', 700);
 INSERT INTO flight(id, origin, destination, duration) VALUES (4,'new york','paris', 435);
